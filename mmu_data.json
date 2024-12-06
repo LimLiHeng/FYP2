@@ -1,0 +1,75 @@
+{
+    "input": "Tell me about Multimedia University (MMU)",
+    "output": {
+      "name": "Multimedia University (MMU)",
+      "history": {
+        "foundation": "MMU was founded in 1997 as the first private university in Malaysia focused on multimedia and information technology education. It was established by Telekom Malaysia Group with the goal of promoting Malaysia as a regional leader in the digital economy.",
+        "development": "Over time, MMU has expanded its academic offerings and research activities, producing graduates skilled in fields like software development, digital arts, engineering, and multimedia communications."
+      },
+      "open_time": {
+        "foundation_year": 1997,
+        "current_status": "MMU accepts new intakes for its undergraduate and postgraduate programs every year, with two main intakes: one in February and another in September."
+      },
+      "courses_offered": {
+        "Faculty_of_Engineering": [
+          "Electrical & Electronics Engineering",
+          "Mechanical Engineering",
+          "Computer Engineering",
+          "Mechatronics Engineering"
+        ],
+        "Faculty_of_Information_Science_and_Technology": [
+          "Computer Science",
+          "Software Engineering",
+          "Artificial Intelligence",
+          "Data Science",
+          "Cybersecurity",
+          "Information Systems"
+        ],
+        "Faculty_of_Creative_Multimedia": [
+          "Multimedia Arts",
+          "Animation",
+          "Game Development",
+          "Digital Media",
+          "Film Production"
+        ],
+        "Faculty_of_Management": [
+          "Business Administration",
+          "Marketing",
+          "Finance",
+          "Human Resource Management",
+          "International Business",
+          "Entrepreneurship"
+        ],
+        "Faculty_of_Law": [
+          "Bachelor of Laws (LLB)"
+        ],
+        "Faculty_of_Computing_and_Informatics": [
+          "Data Science",
+          "Artificial Intelligence"
+        ],
+        "Graduate_Studies": [
+          "Master's and Ph.D. programs in engineering, business, computer science, and multimedia arts"
+        ]
+      },
+      "research_and_innovation": {
+        "overview": "MMU has strong research components, particularly in areas like technology and multimedia. The university is involved in research centers focusing on digital technologies, telecommunications, artificial intelligence, robotics, and cybersecurity.",
+        "industry_collaborations": "Research initiatives often lead to collaborations with industry and government, fostering innovations that benefit the broader community."
+      },
+      "campus_and_facilities": {
+        "Cyberjaya_Campus": "The main campus located in the technology hub of Cyberjaya, offering modern facilities such as high-tech labs, research centers, and multimedia studios.",
+        "Melaka_Campus": "Located in the historical city of Melaka, this campus focuses on business and management programs.",
+        "Digital_Library": "MMU's digital library provides students access to a vast range of academic resources, e-journals, research papers, and multimedia content."
+      },
+      "accreditation": {
+        "overview": "MMU is accredited by the Malaysian Qualifications Agency (MQA) and offers programs that meet international standards.",
+        "professional_bodies": [
+          "Board of Engineers Malaysia (BEM)",
+          "Malaysian Institute of Accountants (MIA)"
+        ]
+      },
+      "industry_linkages": {
+        "overview": "MMU has strong ties with the telecommunications and tech industries, particularly with Telekom Malaysia. It also collaborates with leading multinational companies in software development, media, and telecommunications, providing students with internships and career opportunities."
+      }
+    }
+  }
+  

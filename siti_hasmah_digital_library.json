@@ -1,0 +1,53 @@
+{
+    "input": "Tell me about Multimedia University (MMU)",
+
+    "output": {
+        "name": "Siti Hasmah Digital Library (SHDL)",
+        "university": "Multimedia University (MMU)",
+        "location": "Cyberjaya, Malaysia",
+        "history": {
+            "establishment": "Part of MMU's mission to provide cutting-edge educational infrastructure.",
+            "honor": "Named after Tun Dr. Siti Hasmah Mohd Ali, Malaysia's former First Lady, in recognition of her contributions to education.",
+            "vision": "Combines technology-driven learning spaces with traditional resources."
+        },
+        "opening_hours": {
+            "monday_to_friday": "8:30 AM – 10:00 PM",
+            "weekends": "10:00 AM – 6:00 PM",
+            "public_holidays": "Closed or limited hours, announced in advance",
+            "exam_season": "Extended hours, may offer 24/7 access"
+        },
+        "facilities_and_services": {
+            "digital_and_print_resources": {
+                "books_and_periodicals": "100,000+ volumes, including ICT, engineering, and business topics",
+                "digital_repositories": ["IEEE Xplore", "ScienceDirect", "SpringerLink"]
+            },
+            "technology_enhanced_spaces": [
+                "Smart study pods for small group discussions",
+                "High-performance computers for multimedia and research",
+                "Printing, scanning, and photocopying facilities"
+            ],
+            "research_and_academic_support": [
+                "Guidance on literature reviews, citations, and academic tools like EndNote or Mendeley",
+                "Workshops on research methodology, academic writing, and referencing styles"
+            ],
+            "events_and_community_engagement": [
+                "Workshops and talks on emerging technologies, research trends, and career development",
+                "Cultural exhibits celebrating Malaysia’s heritage"
+            ],
+            "innovative_features": [
+                "RFID technology for quick book checkouts",
+                "Online catalog for remote access to materials"
+            ]
+        },
+        "architecture_and_design": {
+            "focus": "Sustainability, user comfort, and modern aesthetics",
+            "features": [
+                "Ample natural lighting",
+                "Ergonomic furniture",
+                "Digital-first approach for remote access"
+            ]
+        },
+        "significance": "A model for academic libraries across the region, bridging gaps between physical and virtual learning environments."
+    }
+
+}
